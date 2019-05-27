@@ -1,0 +1,40 @@
+table{
+/* 	border: 1px solid #000; */
+	text-align: center;
+	border-collapse: collapse;
+	border: solid 2px orange;
+	background: #fff5e5;
+	margin-top: 20px;
+}
+
+table th{
+	padding: 10px 25px;
+	color: blue;
+/* 	background: #fff5e5; */
+}
+
+table td{
+	padding: 0 20px;
+	color: black;
+}
+
+
+
+
+.title{
+
+}
+
+.employee_info{
+
+}
+
+table th, table td {
+  border: solid 1px orange;
+/*   padding: 10px 20px; */
+}
+
+h1{
+	font-size: 30px;
+	color: bule;
+}
